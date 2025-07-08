@@ -5,7 +5,7 @@ The project was developed as part of college practice.
 
 ## 🛠️ Project Description
 
-- Contains a single HTML page with internal CSS styling
+- Contains HTML pages with internal CSS styling
 - Includes text content and images
 - All content is written in Ukrainian
 - Created for educational purposes
